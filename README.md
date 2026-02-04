@@ -18,8 +18,6 @@ The workflow is divided into four distinct phases, metaphorically designed to si
 ## 🚀 Installation & Prerequisites
 
 Ensure you have Python 3 installed. You will need the following dependencies:
-
-```bash
 pip install tqdm requests Pillow
 
 📖 Usage Guide
